@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KiemTra_LapTrinhUngDungDiDong_2474802010123</string>
+    <string name="login_title">ĐĂNG NHẬP HỆ THỐNG</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Mật khẩu</string>
+    <string name="login_button">Đăng nhập</string>
+    <string name="auth_success">Xác thực thành công!</string>
+    <string name="profile_title">Thông tin tài khoản</string>
+    <string name="user_email_format">Email: %1$s</string>
+    <string name="logout_button">Đăng xuất</string>
+</resources>
